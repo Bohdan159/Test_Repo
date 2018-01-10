@@ -1,7 +1,7 @@
 function foo(l, pass){
-	if(l === 'login' || pass === 'password'){
+	if(l === 'login'){
 		return 'Hi';
 	} else {
-	  return 'incorect';
+	  return 'corect';
 	}
 }
