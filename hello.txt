@@ -2,6 +2,6 @@ function foo(l, pass){
 	if(l === 'login' && pass === 'password'){
 		return 'Hi';
 	}else {
-	  return 'incorect!!!!!!!!!';
+	  return 'corect';
 	}
 }
