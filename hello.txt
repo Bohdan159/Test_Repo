@@ -1,4 +1,4 @@
-function foo(l, pass){
+function foo(l, pass)
 	if(l === 'login' && pass === 'password'){
 		return 'Hi';
 	}else {
