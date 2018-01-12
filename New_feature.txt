@@ -3,5 +3,9 @@ and again
 new 
 and again 
 new 
+<<<<<<< Updated upstream
 features
 features2
+=======
+features
+>>>>>>> Stashed changes
