@@ -1,7 +1,7 @@
-test
-
-
-ljdsgkjsdlkfgjlsjdfgkljdfslkg
-
-
-for test
+function foo(l, pass){
+	if(l === 'login'){
+		return 'Hi';
+	}else {
+	  return 'incorect!!!!!!!!!';
+	}
+}
